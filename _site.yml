@@ -1,0 +1,21 @@
+name: "Introduction to demographic models in Nimble"
+title: "Introduction to demographic models in Nimble"
+output_dir: "docs"
+theme: "theme.css"
+repository_url: https://oliviergimenez.github.io/NETDEM-workshop-survival-nimble/
+include: [".nojekyll"]
+navbar:
+  source_url: true
+  left:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Slides"
+      menu:
+        - text: "Introduction to demographic models in Nimble"
+          href: slides/1_hmm.html
+
+    - icon: fab fa-github
+      href: https://github.com/oliviergimenez/NETDEM-workshop-survival-nimble
+
+output: distill::distill_article
