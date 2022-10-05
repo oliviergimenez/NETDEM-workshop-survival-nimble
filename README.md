@@ -1,6 +1,6 @@
 # Working group/symposium on capture-recapture models and social networks
 
-This repository holds the source materials used for a working group/symposium on capture-recapture models and social networks, and an introduction to capture-recapture models in nimble to estimate demographic parameters.
+This repository holds the source materials used for a working group/symposium on capture-recapture models and social networks organized by [Matthew Silk](https://mattjsilk.weebly.com/), and an introduction to capture-recapture models in nimble to estimate demographic parameters.
  
 ## Reuse
 
